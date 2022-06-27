@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[contacts has been created]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2022-05-30T15:08:45 IST" name="Suite" finished-at="2022-05-30T15:09:23 IST" duration-ms="37667">
+    <groups>
+      <group name="Regression">
+        <method signature="CreateContactsTest.fetchDataofContactsTest()[pri:0, instance:com.vtiger.contactsTest.CreateContactsTest@31da3d60]" name="fetchDataofContactsTest" class="com.vtiger.contactsTest.CreateContactsTest"/>
+      </group> <!-- Regression -->
+    </groups>
+    <test started-at="2022-05-30T15:08:45 IST" name="Test" finished-at="2022-05-30T15:09:23 IST" duration-ms="37667">
+      <class name="com.vtiger.contactsTest.CreateContactsTest">
+        <test-method is-config="true" signature="beforesuiteTest()[pri:0, instance:com.vtiger.contactsTest.CreateContactsTest@31da3d60]" started-at="2022-05-30T15:08:36 IST" name="beforesuiteTest" finished-at="2022-05-30T15:08:45 IST" duration-ms="8630" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforesuiteTest -->
+        <test-method is-config="true" signature="beforeclassTest()[pri:0, instance:com.vtiger.contactsTest.CreateContactsTest@31da3d60]" started-at="2022-05-30T15:08:46 IST" name="beforeclassTest" finished-at="2022-05-30T15:08:53 IST" duration-ms="7272" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeclassTest -->
+        <test-method is-config="true" signature="beforeMethodTest()[pri:0, instance:com.vtiger.contactsTest.CreateContactsTest@31da3d60]" started-at="2022-05-30T15:08:53 IST" name="beforeMethodTest" finished-at="2022-05-30T15:08:59 IST" duration-ms="5766" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethodTest -->
+        <test-method signature="fetchDataofContactsTest()[pri:0, instance:com.vtiger.contactsTest.CreateContactsTest@31da3d60]" started-at="2022-05-30T15:09:00 IST" name="fetchDataofContactsTest" description="testng:- CreateContactsTest" finished-at="2022-05-30T15:09:20 IST" duration-ms="19914" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[contacts has been created]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- fetchDataofContactsTest -->
+        <test-method is-config="true" signature="afterMethodTest()[pri:0, instance:com.vtiger.contactsTest.CreateContactsTest@31da3d60]" started-at="2022-05-30T15:09:20 IST" name="afterMethodTest" finished-at="2022-05-30T15:09:22 IST" duration-ms="2616" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethodTest -->
+        <test-method is-config="true" signature="afterClassTest()[pri:0, instance:com.vtiger.contactsTest.CreateContactsTest@31da3d60]" started-at="2022-05-30T15:09:22 IST" name="afterClassTest" finished-at="2022-05-30T15:09:23 IST" duration-ms="318" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClassTest -->
+        <test-method is-config="true" signature="afterSuiteTest()[pri:0, instance:com.vtiger.contactsTest.CreateContactsTest@31da3d60]" started-at="2022-05-30T15:09:23 IST" name="afterSuiteTest" finished-at="2022-05-30T15:09:24 IST" duration-ms="237" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuiteTest -->
+      </class> <!-- com.vtiger.contactsTest.CreateContactsTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
