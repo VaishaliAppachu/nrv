@@ -5,7 +5,7 @@ import java.util.LinkedHashSet;
 public class RemoveDuplicatesFromStringWord {
 
 	public static void main(String[] args) {
-		 String s="Welcome to india india hi";
+		 String s="Welcome to india india vaish";
 	     String[] str = s.split(" ");
 	     LinkedHashSet<String> set = new LinkedHashSet<String>();
 	     for(int i=0;i<str.length;i++)
