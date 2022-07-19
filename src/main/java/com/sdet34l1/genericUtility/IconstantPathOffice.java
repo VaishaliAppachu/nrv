@@ -12,6 +12,7 @@ public interface IconstantPathOffice
 			String DATABASEPATHURL="jdbc:mysql://localhost:3306/";
 			String RMGPROPERTYFILEPATH="./src/test/resources/rmgcommonData.properties";
 			String RMGEXCELPATH ="./src/test/resources/rmgTestData.xlsx";
+			String MAKEMYTRIP="./src/test/resources/maketrip.xlsx";
 
 			
 }

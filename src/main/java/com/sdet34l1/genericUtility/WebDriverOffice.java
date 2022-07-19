@@ -243,7 +243,7 @@ public static void scrollBySpecificHeightJscript(String height)
 {
 	js.executeScript("window.scrollBy(0,"+height+")");
 }
-/**
+/**9
  * This method is used to scroll Title Element Java script
  */
 public static void scrollTitleElementJscript(WebElement element)

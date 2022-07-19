@@ -3,7 +3,7 @@ package com.java.project;
 public class VowelsPgm {
 
 	public static void main(String[] args) {
-		String s="adedidodu";
+		String s="vaishali";
 		for (int i = 0; i < s.length(); i++)
 		{
 			char ch = s.charAt(i);

@@ -3,17 +3,11 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="com.vtiger.productsTest.CreateProductsTest">
+      <class name="com.makemytrip.book.MakeMyTrip">
         <methods>
-          <include name="beforeclassTest"/>
-          <include name="createProductsTest"/>
-          <include name="beforeMethodTest"/>
-          <include name="afterMethodTest"/>
-          <include name="afterClassTest"/>
-          <include name="afterSuiteTest"/>
-          <include name="beforesuiteTest"/>
+          <include name="bookTickets" invocation-numbers="0 1 2 3"/>
         </methods>
-      </class> <!-- com.vtiger.productsTest.CreateProductsTest -->
+      </class> <!-- com.makemytrip.book.MakeMyTrip -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

@@ -5,7 +5,7 @@ public class FindNumberPrime
 
 	public static void main(String[] args) 
 	{
-		int num=2;
+		int num=13;
 		int j=2;
 		while(num>=j)
 		{

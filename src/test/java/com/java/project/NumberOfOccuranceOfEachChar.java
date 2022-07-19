@@ -25,7 +25,6 @@ public class NumberOfOccuranceOfEachChar {
 				}
 			}
 			System.out.println(ch+"="+count);  //step:4 print both char and count
-
 		}
 	}
 
