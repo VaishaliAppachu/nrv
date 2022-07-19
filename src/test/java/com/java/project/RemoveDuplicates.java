@@ -5,7 +5,7 @@ import java.util.LinkedHashSet;
 public class RemoveDuplicates {
 
 	public static void main(String[] args) {
-		String s="india";     
+		String s="vaish";     
 		LinkedHashSet<Character> set = new LinkedHashSet<Character>();
 		for(int i=0;i<s.length();i++)
 		{
